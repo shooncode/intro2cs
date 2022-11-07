@@ -41,7 +41,6 @@ def find_largest_and_smallest_numbers(num1 = 0.0, num2 = 0.0, num3 = 0.0):
         return (num3, num1)
 
 # 3. Quadratic Equation Solver
-from math import sqrt
 
 def quadratic_equation_solver(a, b, c):
     if a == 0:
